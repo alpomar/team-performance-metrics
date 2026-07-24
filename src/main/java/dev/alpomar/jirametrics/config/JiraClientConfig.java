@@ -1,4 +1,4 @@
-package dev.fp.jirametrics.config;
+package dev.alpomar.jirametrics.config;
 
 import com.atlassian.jira.rest.client.api.JiraRestClient;
 import com.atlassian.jira.rest.client.api.JiraRestClientFactory;

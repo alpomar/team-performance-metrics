@@ -1,4 +1,4 @@
-package dev.fp.jirametrics.model;
+package dev.alpomar.jirametrics.model;
 
 import org.joda.time.DateTime;
 import org.junit.jupiter.api.Test;

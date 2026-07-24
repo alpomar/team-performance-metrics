@@ -1,4 +1,4 @@
-package dev.fp.jirametrics.model;
+package dev.alpomar.jirametrics.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package dev.fp.jirametrics.service;
+package dev.alpomar.jirametrics.service;
 
 import com.atlassian.jira.rest.client.api.IssueRestClient;
 import com.atlassian.jira.rest.client.api.JiraRestClient;
@@ -8,9 +8,9 @@ import com.atlassian.jira.rest.client.api.domain.SearchResult;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import dev.fp.jirametrics.model.Report;
-import dev.fp.jirametrics.model.State;
-import dev.fp.jirametrics.model.Ticket;
+import dev.alpomar.jirametrics.model.Report;
+import dev.alpomar.jirametrics.model.State;
+import dev.alpomar.jirametrics.model.Ticket;
 import org.joda.time.DateTime;
 import org.springframework.stereotype.Service;
 

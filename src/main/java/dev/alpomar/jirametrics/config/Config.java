@@ -1,4 +1,4 @@
-package dev.fp.jirametrics.config;
+package dev.alpomar.jirametrics.config;
 
 import lombok.Getter;
 import lombok.Setter;

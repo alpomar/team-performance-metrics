@@ -1,8 +1,8 @@
-package dev.fp.jirametrics;
+package dev.alpomar.jirametrics;
 
-import dev.fp.jirametrics.config.Config;
-import dev.fp.jirametrics.model.Report;
-import dev.fp.jirametrics.service.JiraService;
+import dev.alpomar.jirametrics.config.Config;
+import dev.alpomar.jirametrics.model.Report;
+import dev.alpomar.jirametrics.service.JiraService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
