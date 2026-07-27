@@ -38,6 +38,9 @@ validStateNames.add("Board Column Name");
 - The output is a CSV with columns: `ID, Type, Summary, Cycle Time (days)`
 - Cycle time is computed by summing durations (in hours) of all states whose names appear in the configured `validStateNames` list, and dividing hours by 24 to give days
 
+# About the Author
+I'm Filipe Albero Pomar. Engineering manager, sometime product manager, still hands-on with the code. Curious how? More at [alpomar.dev](https://alpomar.dev)
+
 ## Next steps
 - Externalise configuration (e.g., via a properties file or command line arguments)
 - Expand this application to gather team metrics from Github (e.g., PR throughput)
